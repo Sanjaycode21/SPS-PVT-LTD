@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  *, *::before, *::after {
+    border-radius: 0 !important;
+  }
+  
+  html {
+    font-family: 'Manrope', system-ui, -apple-system, sans-serif;
+    color: #26332E;
+    background-color: #F7F8F4;
+    scroll-behavior: smooth;
+  }
+
+  ::selection {
+    background-color: #C5A65A;
+    color: #123F32;
+  }
+}
+
+/* Custom Molecular Line Keyframes & SVG Stroke Animation */
+@keyframes molecularDraw {
+  0% {
+    stroke-dashoffset: 120;
+    opacity: 0;
+  }
+  50% {
+    opacity: 0.25;
+  }
+  100% {
+    stroke-dashoffset: 0;
+    opacity: 0.2;
+  }
+}
+
+.molecular-draw-path {
+  stroke-dasharray: 120;
+  stroke-dashoffset: 120;
+  transition: stroke-dashoffset 0.6s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.4s ease;
+}
+
+.group:hover .molecular-draw-path,
+.group:focus-visible .molecular-draw-path {
+  stroke-dashoffset: 0;
+  opacity: 0.25;
+}
+
+/* Subtle image reveal transition */
+.image-reveal {
+  transition: transform 0.8s cubic-bezier(0.16, 1, 0.3, 1), filter 0.8s ease;
+}
+.image-reveal:hover {
+  transform: scale(1.02);
+}
+
+/* Editorial typography & custom dividers */
+.editorial-grid-line {
+  background-image: linear-gradient(to right, rgba(18, 63, 50, 0.15) 1px, transparent 1px);
+  background-size: 24px 100%;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

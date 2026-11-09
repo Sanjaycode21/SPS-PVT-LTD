@@ -1,0 +1,9 @@
+node_modules/
+dist/
+extracted_assets/
+src/assets/
+.DS_Store
+*.log
+/*.png
+/*.jpg
+

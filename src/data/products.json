@@ -1,0 +1,902 @@
+[
+  {
+    "sno": 1,
+    "name": "5-hydroxy-3,9-dimethoxy-7H-benzo[c]fluoren-7-one",
+    "cas": "318487-86-4",
+    "hasCas": true,
+    "intermediateOf": "Potential for OLEDs",
+    "category": "Speciality Molecules (OLEDs)",
+    "structureImage": "/images/structures/structure_1.png"
+  },
+  {
+    "sno": 2,
+    "name": "3,9-dimethoxy-7-oxo-7H-benzo[c]fluoren-5-yl acetate",
+    "cas": "858790-82-6",
+    "hasCas": true,
+    "intermediateOf": "Potential for OLEDs",
+    "category": "Speciality Molecules (OLEDs)",
+    "structureImage": "/images/structures/structure_2.png"
+  },
+  {
+    "sno": 3,
+    "name": "9-bromo-2,3-dimethoxy-7,7-dimethyl-7H-benzo[c]fluoren-5-ol",
+    "cas": "912260-81-2",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_3.png"
+  },
+  {
+    "sno": 4,
+    "name": "9-bromo-3-methoxy-7,7-dipropyl-7H-benzo[c]fluoren-5-ol",
+    "cas": "Available on Enquiry",
+    "hasCas": false,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_4.png"
+  },
+  {
+    "sno": 5,
+    "name": "1,1-bis (4-methoxy phenyl) prop-2-yn-1-ol",
+    "cas": "101597-25-5",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_5.png"
+  },
+  {
+    "sno": 10,
+    "name": "1-(4-fluorophenyl)-1-(4-methoxyphenyl) prop-2-yn-1-ol",
+    "cas": "1430750-88-1",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_10.png"
+  },
+  {
+    "sno": 11,
+    "name": "1-(4-methoxyphenyl)-1-phenylprop-2-yn-1-ol",
+    "cas": "13632-62-7",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_11.png"
+  },
+  {
+    "sno": 12,
+    "name": "piperazine-2,6-dione",
+    "cas": "4774-22-5",
+    "hasCas": true,
+    "intermediateOf": "Dexrazoxane intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_12.png"
+  },
+  {
+    "sno": 13,
+    "name": "1-benzyl-4-methylpiperidin-3-ol",
+    "cas": "384338-20-9",
+    "hasCas": true,
+    "intermediateOf": "Tofacitinib intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_13.png"
+  },
+  {
+    "sno": 14,
+    "name": "1-benzyl-4-methylpiperidin-3-one",
+    "cas": "32018-96-5",
+    "hasCas": true,
+    "intermediateOf": "Tofacitinib intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_14.png"
+  },
+  {
+    "sno": 15,
+    "name": "(3R,4R)-1-Benzyl-N,4-dimethylpiperidin-3-amine",
+    "cas": "477600-70-7",
+    "hasCas": true,
+    "intermediateOf": "Tofacitinib intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_15.png"
+  },
+  {
+    "sno": 16,
+    "name": "N-Methyl-N-((3R,4R)-4-methyl piperidin-3-yl)-7H-pyrrolo[2,3-d] pyrimidin-4-amine",
+    "cas": "477600-74-1",
+    "hasCas": true,
+    "intermediateOf": "Tofacitinib intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_16.png"
+  },
+  {
+    "sno": 17,
+    "name": "tert-Butyl 4-(2-Ethoxy-2-oxoethylidene) piperidine-1-carboxylate",
+    "cas": "135716-08-4",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_17.png"
+  },
+  {
+    "sno": 18,
+    "name": "tert-butyl 4-amino-4-(2-ethoxy-2-oxoethyl) piperidine-1-carboxylate",
+    "cas": "1333222-34-6",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_18.png"
+  },
+  {
+    "sno": 19,
+    "name": "1-benzyl 2-methyl 4-oxocyclopentane-1,2-dicarboxylate",
+    "cas": "362488-92-4",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_19.png"
+  },
+  {
+    "sno": 20,
+    "name": "methyl 2-(((benzyloxy) carbonyl) amino)-4-oxocyclopentanecarboxylate",
+    "cas": "164916-54-5",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_20.png"
+  },
+  {
+    "sno": 21,
+    "name": "(1R,5S,6s)-3-benzyl-3-azabicyclo [3.1.0] hexan-6-amine",
+    "cas": "151860-17-2",
+    "hasCas": true,
+    "intermediateOf": "Alatrofloxacin intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_21.png"
+  },
+  {
+    "sno": 22,
+    "name": "(1R,5S,6s)-tert-butyl 6-amino-3-azabicyclo [3.1.0] hexane-3-carboxylate",
+    "cas": "273206-92-1",
+    "hasCas": true,
+    "intermediateOf": "Alatrofloxacin intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_22.png"
+  },
+  {
+    "sno": 23,
+    "name": "2-(5-bromopyridin-3-yl) quinuclidine",
+    "cas": "Available on Enquiry",
+    "hasCas": false,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_23.png"
+  },
+  {
+    "sno": 24,
+    "name": "Hexan-2-one",
+    "cas": "591-78-6",
+    "hasCas": true,
+    "intermediateOf": "Misoprostol intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_24.png"
+  },
+  {
+    "sno": 25,
+    "name": "4-methyloct-1-yn-4-ol",
+    "cas": "22128-43-4",
+    "hasCas": true,
+    "intermediateOf": "Misoprostol intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_25.png"
+  },
+  {
+    "sno": 26,
+    "name": "((1-iodo-4-methyloct-1-en-4-yl) oxy) trimethyl silane",
+    "cas": "106089-11-6",
+    "hasCas": true,
+    "intermediateOf": "Misoprostol intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_26.png"
+  },
+  {
+    "sno": 27,
+    "name": "Methyl 7-(5-oxo-3-((triethyl silyl) oxy) cyclopent-1-en-1-yl) heptanoate",
+    "cas": "118456-54-5",
+    "hasCas": true,
+    "intermediateOf": "Misoprostol intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_27.png"
+  },
+  {
+    "sno": 28,
+    "name": "(3aR,4R,6aS)-4-(((tert-butyldimethylsilyl) oxy) methyl)-2,2-dimethyl tetrahydro-4H- [1,3]dioxolo[4,5-c]pyrrole",
+    "cas": "153172-31-7",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_28.png"
+  },
+  {
+    "sno": 29,
+    "name": "tert-Butyl(((3as,4R,6ar)-2,2-dimethyl tetrahydro thieno [3,4-d][1,3] dioxol-4-yl) methoxy) dimethylsilane",
+    "cas": "875753-49-4",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_29.png"
+  },
+  {
+    "sno": 30,
+    "name": "4-Chloropicolinic acid",
+    "cas": "5470-22-4",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_30.png"
+  },
+  {
+    "sno": 31,
+    "name": "Methyl 4-chloropicolinate",
+    "cas": "24484-93-3",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_31.png"
+  },
+  {
+    "sno": 32,
+    "name": "4-chloropicolinamide",
+    "cas": "99586-65-9",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_32.png"
+  },
+  {
+    "sno": 33,
+    "name": "4-chloropicolinonitrile",
+    "cas": "19235-89-3",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_33.png"
+  },
+  {
+    "sno": 34,
+    "name": "3-fluoropicolinonitrile",
+    "cas": "97509-75-6",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_34.png"
+  },
+  {
+    "sno": 35,
+    "name": "3-oxocyclobutanecarboxylic acid",
+    "cas": "23761-23-1",
+    "hasCas": true,
+    "intermediateOf": "Abrocitinib intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_35.png"
+  },
+  {
+    "sno": 36,
+    "name": "2-chloro-11,11-diphenyl-11H-benzo[b]fluorene",
+    "cas": "Available on Enquiry",
+    "hasCas": false,
+    "intermediateOf": "(OLEDs)",
+    "category": "Speciality Molecules (OLEDs)",
+    "structureImage": "/images/structures/structure_36.png"
+  },
+  {
+    "sno": 37,
+    "name": "N-(naphthalen-2-yl)-11,11-diphenyl-11H-benzo[b]fluoren-2-amine",
+    "cas": "Available on Enquiry",
+    "hasCas": false,
+    "intermediateOf": "(OLEDs)",
+    "category": "Speciality Molecules (OLEDs)",
+    "structureImage": "/images/structures/structure_37.png"
+  },
+  {
+    "sno": 38,
+    "name": "N-(naphthalen-2-yl)-N,11,11-triphenyl-11H-benzo[b]fluoren-2-amine",
+    "cas": "Available on Enquiry",
+    "hasCas": false,
+    "intermediateOf": "(OLEDs)",
+    "category": "Speciality Molecules (OLEDs)",
+    "structureImage": "/images/structures/structure_38.png"
+  },
+  {
+    "sno": 39,
+    "name": "Methyl 3-(4-chlorophenyl) propanoate",
+    "cas": "50561-69-8",
+    "hasCas": true,
+    "intermediateOf": "Pitolisant intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_39.png"
+  },
+  {
+    "sno": 40,
+    "name": "3-(4-chlorophenyl) propan-1-ol",
+    "cas": "6282-88-8",
+    "hasCas": true,
+    "intermediateOf": "Pitolisant intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_40.png"
+  },
+  {
+    "sno": 41,
+    "name": "3-methylfuran-2,5-dione",
+    "cas": "616-02-4",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_41.png"
+  },
+  {
+    "sno": 42,
+    "name": "2-oxo-2-phenylacetic acid",
+    "cas": "611-73-4",
+    "hasCas": true,
+    "intermediateOf": "Glycopyrronium bromide intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_42.png"
+  },
+  {
+    "sno": 43,
+    "name": "Cyclopentylmagnesium bromide",
+    "cas": "33240-34-5",
+    "hasCas": true,
+    "intermediateOf": "Glycopyrronium bromide intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_43.png"
+  },
+  {
+    "sno": 44,
+    "name": "2-Cyclopentyl-2-hydroxy-2-phenylacetic acid",
+    "cas": "427-49-6",
+    "hasCas": true,
+    "intermediateOf": "Glycopyrronium bromide intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_44.png"
+  },
+  {
+    "sno": 45,
+    "name": "1-methylpyrrolidin-3-ol",
+    "cas": "13220-33-2",
+    "hasCas": true,
+    "intermediateOf": "Glycopyrronium bromide intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_45.png"
+  },
+  {
+    "sno": 46,
+    "name": "1-(4-methoxyphenyl)-2-methylpropan-2-amine",
+    "cas": "56490-94-9",
+    "hasCas": true,
+    "intermediateOf": "Mebeverine intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_46.png"
+  },
+  {
+    "sno": 47,
+    "name": "4-(2-amino-2-methylpropyl) phenol",
+    "cas": "51706-55-9",
+    "hasCas": true,
+    "intermediateOf": "Mebeverine intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_47.png"
+  },
+  {
+    "sno": 48,
+    "name": "1H-indazole-3-carboxylic acid",
+    "cas": "4498-67-3",
+    "hasCas": true,
+    "intermediateOf": "Granisetron intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_48.png"
+  },
+  {
+    "sno": 49,
+    "name": "1-methyl-1H-indazole-3-carboxylic acid",
+    "cas": "50890-83-0",
+    "hasCas": true,
+    "intermediateOf": "Granisetron intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_49.png"
+  },
+  {
+    "sno": 50,
+    "name": "9-Methyl-9-azabicyclo [3.3.1] nonan-3-one",
+    "cas": "552-70-5",
+    "hasCas": true,
+    "intermediateOf": "Granisetron intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_50.png"
+  },
+  {
+    "sno": 51,
+    "name": "9-Methyl-9-azabicyclo [3.3.1] nonan-3-one oxime",
+    "cas": "6164-67-6",
+    "hasCas": true,
+    "intermediateOf": "Granisetron intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_51.png"
+  },
+  {
+    "sno": 52,
+    "name": "Endo-9-Methyl-9-azabicyclo [3.3.1] nonan-3-amine",
+    "cas": "76272-56-5",
+    "hasCas": true,
+    "intermediateOf": "Granisetron intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_52.png"
+  },
+  {
+    "sno": 53,
+    "name": "1-isopropylurea",
+    "cas": "691-60-1",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_53.png"
+  },
+  {
+    "sno": 54,
+    "name": "3-(2-methoxyphenoxy)propane-1,2-diol",
+    "cas": "93-14-1",
+    "hasCas": true,
+    "intermediateOf": "Methocarbamol intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_54.png"
+  },
+  {
+    "sno": 55,
+    "name": "4-((2-methoxyphenoxy) methyl)-1,3-dioxolan-2-one",
+    "cas": "2049-21-0",
+    "hasCas": true,
+    "intermediateOf": "Methocarbamol intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_55.png"
+  },
+  {
+    "sno": 56,
+    "name": "2-(2-(2,2,2-trifluoro ethoxy) phenoxy) ethanol",
+    "cas": "160969-02-8",
+    "hasCas": true,
+    "intermediateOf": "Silodosin intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_56.png"
+  },
+  {
+    "sno": 57,
+    "name": "2-(2-(2,2,2-trifluoro ethoxy) phenoxy) ethyl methanesulfonate",
+    "cas": "160969-03-9",
+    "hasCas": true,
+    "intermediateOf": "Silodosin intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_57.png"
+  },
+  {
+    "sno": 58,
+    "name": "ethyl 3-(indolin-1-yl)propanoate",
+    "cas": "887574-27-8",
+    "hasCas": true,
+    "intermediateOf": "Silodosin intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_58.png"
+  },
+  {
+    "sno": 59,
+    "name": "3-(indolin-1-yl)propan-1-ol",
+    "cas": "Available on Enquiry",
+    "hasCas": false,
+    "intermediateOf": "Silodosin intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_59.png"
+  },
+  {
+    "sno": 60,
+    "name": "N-(4-bromophenyl) acetamide",
+    "cas": "103-88-8",
+    "hasCas": true,
+    "intermediateOf": "paracetamol",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_60.png"
+  },
+  {
+    "sno": 61,
+    "name": "4-bromoaniline",
+    "cas": "106-40-1",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_61.png"
+  },
+  {
+    "sno": 62,
+    "name": "[1,2,4] triazolo[4,3-a] pyridin-3(2H)-one",
+    "cas": "6969-71-7",
+    "hasCas": true,
+    "intermediateOf": "Trazodone intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_62.png"
+  },
+  {
+    "sno": 63,
+    "name": "1-(3-chlorophenyl) piperazine",
+    "cas": "6640-24-0",
+    "hasCas": true,
+    "intermediateOf": "Trazodone intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_63.png"
+  },
+  {
+    "sno": 64,
+    "name": "3-aminopiperidine-2,6-dione",
+    "cas": "2353-44-8",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_64.png"
+  },
+  {
+    "sno": 65,
+    "name": "4-hydroxy-3,5-diisopropylbenzoic acid",
+    "cas": "13423-73-9",
+    "hasCas": true,
+    "intermediateOf": "Propofol intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_65.png"
+  },
+  {
+    "sno": 66,
+    "name": "N-(4-((aminooxy)sulfonyl)phenyl) acetamide",
+    "cas": "121-61-9",
+    "hasCas": true,
+    "intermediateOf": "Sulfametrole intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_66.png"
+  },
+  {
+    "sno": 67,
+    "name": "Disodium beta-Glycerophosphate Pentahydrate",
+    "cas": "13408-09-8",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_67.png"
+  },
+  {
+    "sno": 68,
+    "name": "6-Perdeoxy-6-perchloro-\u03b3-cyclodextrin",
+    "cas": "173094-60-5",
+    "hasCas": true,
+    "intermediateOf": "Sugammadex intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_68.png"
+  },
+  {
+    "sno": 69,
+    "name": "2-(4-(4-chlorobenzoyl) phenoxy)-2-methylpropanoic acid",
+    "cas": "42017-89-0",
+    "hasCas": true,
+    "intermediateOf": "Fenofibrate intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_69.png"
+  },
+  {
+    "sno": 70,
+    "name": "2,2'-(5-(bromomethyl)-1,3-phenylene) bis(2-methylpropanenitrile)",
+    "cas": "120511-84-4",
+    "hasCas": true,
+    "intermediateOf": "Anastrozole intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_70.png"
+  },
+  {
+    "sno": 71,
+    "name": "2,2'-(5-methyl-1,3-phenylene) bis(2-methylpropanenitrile)",
+    "cas": "120511-72-0",
+    "hasCas": true,
+    "intermediateOf": "Anastrozole intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_71.png"
+  },
+  {
+    "sno": 72,
+    "name": "N-(4-cyano-3-(trifluoromethyl) phenyl)-2-methyloxirane-2-carboxamide",
+    "cas": "90357-51-0",
+    "hasCas": true,
+    "intermediateOf": "Bicalutamide intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_72.png"
+  },
+  {
+    "sno": 73,
+    "name": "N-(4-cyano-3-(trifluoromethyl) phenyl)-3-((4-fluorophenyl)thio)-2-hydroxy-2-methylpropanamide",
+    "cas": "90356-78-8",
+    "hasCas": true,
+    "intermediateOf": "Bicalutamide intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_73.png"
+  },
+  {
+    "sno": 74,
+    "name": "3-methyl-1-phenyl-1H-pyrazol-5(4H)-one",
+    "cas": "89-25-8",
+    "hasCas": true,
+    "intermediateOf": "Edaravone intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_74.png"
+  },
+  {
+    "sno": 75,
+    "name": "3-(4-nitro-1-oxoisoindolin-2-yl)piperidine-2,6-dione",
+    "cas": "827026-45-9",
+    "hasCas": true,
+    "intermediateOf": "LENALIDOMIDE intemediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_75.png"
+  },
+  {
+    "sno": 76,
+    "name": "4,4'-((1H-1,2,4-triazol-1-yl) methylene) dibenzonitrile",
+    "cas": "112809-52-6",
+    "hasCas": true,
+    "intermediateOf": "LETROZOLE intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_76.png"
+  },
+  {
+    "sno": 77,
+    "name": "2-(2,6-dioxopiperidin-3-yl)-4-nitroisoindoline-1,3-dione",
+    "cas": "19171-18-7",
+    "hasCas": true,
+    "intermediateOf": "POMALIDOMIDE intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_77.png"
+  },
+  {
+    "sno": 78,
+    "name": "4-(4-nitrophenyl) morpholin-3-one",
+    "cas": "446292-04-2",
+    "hasCas": true,
+    "intermediateOf": "Rivaroxaban intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_78.png"
+  },
+  {
+    "sno": 79,
+    "name": "4-(4-aminophenyl) morpholin-3-one",
+    "cas": "438056-69-0",
+    "hasCas": true,
+    "intermediateOf": "Rivaroxaban intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_79.png"
+  },
+  {
+    "sno": 80,
+    "name": "(S)-4-(4-(5-(aminomethyl)-2-oxooxazolidin-3-yl) phenyl) morpholin-3-one hydrochloride",
+    "cas": "898543-06-1",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_80.png"
+  },
+  {
+    "sno": 81,
+    "name": "(4S,5R)-4-Hydroxy-5-(hydroxymethyl)dihydrofuran-2(3H)-one",
+    "cas": "34371-14-7",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_81.png"
+  },
+  {
+    "sno": 82,
+    "name": "4-butylbenzene-1,3-diol",
+    "cas": "18979-61-8",
+    "hasCas": true,
+    "intermediateOf": "used in skincare products",
+    "category": "Fine Chemicals & Cosmetic Intermediates",
+    "structureImage": "/images/structures/structure_82.png"
+  },
+  {
+    "sno": 83,
+    "name": "Methyl 2-(4-(2-chloroethyl) phenyl)-2-methylpropanoate",
+    "cas": "1181267-33-3",
+    "hasCas": true,
+    "intermediateOf": "Bilastine intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_83.png"
+  },
+  {
+    "sno": 84,
+    "name": "tert-Butyl 4-(1H-benzo[d] imidazol-2-yl) piperidine-1-carboxylate",
+    "cas": "953071-73-3",
+    "hasCas": true,
+    "intermediateOf": "Bilastine intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_84.png"
+  },
+  {
+    "sno": 85,
+    "name": "tert-Butyl 4-(1-(2-ethoxy ethyl) -1H-benzo[d] imidazol-2-yl) piperidine -1-carboxylate,",
+    "cas": "1181267-36-6",
+    "hasCas": true,
+    "intermediateOf": "Bilastine intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_85.png"
+  },
+  {
+    "sno": 86,
+    "name": "1-(2-Ethoxyethyl)-2-(piperidin-4-yl)-1H-benzo[d]imidazole hydrochloride",
+    "cas": "1841081-72-8",
+    "hasCas": true,
+    "intermediateOf": "Bilastine intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_86.png"
+  },
+  {
+    "sno": 87,
+    "name": "2-Ethylhexyl 4-nitrobenzoate",
+    "cas": "16397-70-9",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_87.png"
+  },
+  {
+    "sno": 88,
+    "name": "2-Ethylhexyl 4-aminobenzoate",
+    "cas": "26218-04-2",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_88.png"
+  },
+  {
+    "sno": 89,
+    "name": "Ethyl hexyl Triazone",
+    "cas": "88122-99-0",
+    "hasCas": true,
+    "intermediateOf": "Used primarily in sunscreens and other cosmetic products",
+    "category": "Fine Chemicals & Cosmetic Intermediates",
+    "structureImage": "/images/structures/structure_89.png"
+  },
+  {
+    "sno": 90,
+    "name": "Cis ( ) Hydroxy lactam",
+    "cas": "42399-49-5",
+    "hasCas": true,
+    "intermediateOf": "Diltiazem intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_90.png"
+  },
+  {
+    "sno": 91,
+    "name": "(2S,3S)-5-(2-(Dimethyl amino)ethyl)-3-hydroxy-2-(4-methoxyphenyl)-2,3-dihydro benzo [b][ 1,4] thiazepin-4(5H)-one",
+    "cas": "42399-40-6",
+    "hasCas": true,
+    "intermediateOf": "Diltiazem intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_91.png"
+  },
+  {
+    "sno": 92,
+    "name": "1H-pyrrole-2-carbonitrile",
+    "cas": "4513-94-4",
+    "hasCas": true,
+    "intermediateOf": "Remdesivir",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_92.png"
+  },
+  {
+    "sno": 94,
+    "name": "Methyl b-L-Arabinopyranoside",
+    "cas": "1825-00-9",
+    "hasCas": true,
+    "intermediateOf": "L-Ribose intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_94.png"
+  },
+  {
+    "sno": 95,
+    "name": "Methyl 3,4-O-(1-methylethylidene)-b-L-Arabinopyranoside",
+    "cas": "6960-39-0",
+    "hasCas": true,
+    "intermediateOf": "L-Ribose intermediate",
+    "category": "Active Pharmaceutical Intermediates",
+    "structureImage": "/images/structures/structure_95.png"
+  },
+  {
+    "sno": 96,
+    "name": "4-oxohept-5-enoic acid",
+    "cas": "Available on Enquiry",
+    "hasCas": false,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_96.png"
+  },
+  {
+    "sno": 97,
+    "name": "5-oxooct-6-enoic acid",
+    "cas": "Available on Enquiry",
+    "hasCas": false,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_97.png"
+  },
+  {
+    "sno": 98,
+    "name": "tert-butyl 4-oxohept-5-enoate",
+    "cas": "Available on Enquiry",
+    "hasCas": false,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_98.png"
+  },
+  {
+    "sno": 99,
+    "name": "4-oxo-6-phenylhept-5-enoic acid",
+    "cas": "Available on Enquiry",
+    "hasCas": false,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_99.png"
+  },
+  {
+    "sno": 100,
+    "name": "3-Mercaptopropanoic acid",
+    "cas": "107-96-0",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_100.png"
+  },
+  {
+    "sno": 101,
+    "name": "methyl 4-acetoxy-6,7-dimethoxy-1-(4-(trifluoromethyl) phenyl)-2-naphthoate",
+    "cas": "Available on Enquiry",
+    "hasCas": false,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_101.png"
+  },
+  {
+    "sno": 102,
+    "name": "2,3-dimethoxy-7,7-dimethyl-9-(trifluoromethyl)-7H-benzo[c]fluoren-5-ol",
+    "cas": "1021540-53-3",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_102.png"
+  },
+  {
+    "sno": 103,
+    "name": "2,8-dimethylnonane-4,6-dione",
+    "cas": "7307-08-6",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_103.png"
+  },
+  {
+    "sno": 104,
+    "name": "5,7-dichlorothieno[3,2-b] pyridine",
+    "cas": "74695-44-6",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_104.png"
+  },
+  {
+    "sno": 105,
+    "name": "Benzofuran-6-ol",
+    "cas": "13196-11-7",
+    "hasCas": true,
+    "intermediateOf": "Speciality Synthesis",
+    "category": "Speciality Molecules & API Intermediates",
+    "structureImage": "/images/structures/structure_105.png"
+  }
+]
